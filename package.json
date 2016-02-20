@@ -1,6 +1,6 @@
 {
-  "name": "image-path-rename",
-  "version": "1.0.0",
+  "name": "image-path-rename-loader",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
